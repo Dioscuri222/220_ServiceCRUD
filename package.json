@@ -17,5 +17,9 @@
   "bugs": {
     "url": "https://github.com/Dioscuri222/220_ServiceCRUD/issues"
   },
-  "homepage": "https://github.com/Dioscuri222/220_ServiceCRUD#readme"
+  "homepage": "https://github.com/Dioscuri222/220_ServiceCRUD#readme",
+  "dependencies": {
+    "express": "^5.3.0",
+    "pg": "^8.23.1"
+  }
 }
