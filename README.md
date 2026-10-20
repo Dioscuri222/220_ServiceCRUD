@@ -1,4 +1,4 @@
-<h1>Hasil Running dengna Postman proses CRUD</h1>
+<h1>Hasil Running Postman proses CRUD</h1>
 
 <img width="1920" height="1020" alt="Screenshot 2026-10-20 104203" src="https://github.com/user-attachments/assets/92b48ce0-b421-442a-9830-39f49f3df6c1" />
 
